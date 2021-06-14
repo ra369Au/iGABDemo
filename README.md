@@ -1,2 +1,2 @@
 # iGABDemo
-Research and Development for Azure Boards to GitHub Enterprise Testing
+Research and Development for Azure Boards to GitHub Enterprise
