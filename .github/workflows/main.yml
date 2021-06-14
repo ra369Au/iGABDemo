@@ -15,7 +15,7 @@ jobs:
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "ranidharan"
           ado_project: "iGABDemo"
-          ado_wit: "Issue"
+          ado_wit: "Issues"
           ado_new_state: "To Do"
           ado_active_state: "Doing"
           ado_close_state: "Done"
